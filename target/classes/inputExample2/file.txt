@@ -1,0 +1,10 @@
+2012-12-31	17:59	Santa Ana	DVDs	414.09	MasterCard
+2012-12-31	17:59	Baltimore	DVDs	467.3	Visa
+2012-12-31	17:59	Santa Ana	Video Games	144.73	Visa
+2012-12-31	17:59	Baltimore	Video Games	200.3	MaterCard
+2012-01-22	17:49	Lubbock	Computers	233.24	Amex
+2012-01-22	17:50	ElPaso	Cameras	363.08	MasterCard
+2012-01-22	17:50	Lexington	Toys	233.12	Discover
+2012-01-22	17:50	Honolulu	Cameras	167.3	MasterCard
+2012-01-22	17:50	Honolulu	Baby	330.37	MasterCard
+2012-01-22	17:50	Lubbock	Music	495.26	MasterCard
